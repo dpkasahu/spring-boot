@@ -1,0 +1,13 @@
+package com.deepika.dispringboot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DiSpringBootApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
